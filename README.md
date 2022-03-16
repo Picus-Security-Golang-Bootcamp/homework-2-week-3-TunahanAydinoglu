@@ -55,7 +55,6 @@ go run main.go buy <bookID> <quantity>
 go run main.go buy 5 2
 ```
 
-asdfas
 
 ###
 # Requirements:
